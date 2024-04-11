@@ -1,0 +1,32 @@
+_repo: In-two-years-time-Vol-I-of-2_73287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cambridge, Ada
+    alias: Cross, Ada Cambridge
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '1403'
+    url: http://www.gutenberg.org/2009/agents/1403
+    wikipedia: https://en.wikipedia.org/wiki/Ada_Cambridge
+description: ''
+gutenberg_issued: '2024-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73287'
+language: en
+pgterms:marc905: 20210905063421cambridge
+pgterms:marc906: '1879'
+pgterms:marc907: GB
+production_note: Carla Foust, WebRover, Tim Lindell, Darleen Dove, Shannon Barker
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bRichard Bentley & Son, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In two years' time, Vol. I (of 2)
+url: http://www.gutenberg.org/ebooks/73287
